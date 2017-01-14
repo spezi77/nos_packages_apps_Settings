@@ -173,9 +173,6 @@
     <string name="battery_saver_color_title">Warning color</string>
     <string name="battery_saver_color_summary">Enable orange status - navigation bars when battery saver is activated</string>
 
-    <!-- Navigation -->
-    <string name="navigation_category">Navigation</string>
-
     <!-- Expanded desktop -->
     <string name="power_menu_expanded_desktop">Expanded desktop</string>
     <string name="expanded_hide_nothing">Hide nothing</string>

@@ -137,11 +137,6 @@ import com.android.settingslib.drawer.Tile;
 import com.nitrogen.settings.NitrogenSettings;
 
 import java.net.URISyntaxException;
-import com.nitrogen.settings.fragments.FlingSettings;
-import com.nitrogen.settings.fragments.NavbarSettings;
-import com.nitrogen.settings.fragments.SmartbarSettings;
-import com.nitrogen.settings.fragments.PulseSettings;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
@@ -366,10 +361,6 @@ public class SettingsActivity extends SettingsDrawerActivity
             WifiInfo.class.getName(),
             MasterClear.class.getName(),
             NightDisplaySettings.class.getName(),
-            NavbarSettings.class.getName(),
-            FlingSettings.class.getName(),
-            SmartbarSettings.class.getName(),
-            PulseSettings.class.getName(),
             ExpandedDesktopPreferenceFragment.class.getName(),
             ManageDomainUrls.class.getName(),
             AutomaticStorageManagerSettings.class.getName()
